@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <link rel="stylesheet" href="donate/donate.css">
+
+
+</head>
+
+<body>
+    <!--HEADER PART-->
+    <header class="header">
+        <img itemprop="logo" src="https://49f75a907f3de7cc2849-8c383cd99e3434faa5a413cd61284364.ssl.cf1.rackcdn.com/1587472542667logo.png" style="width: 90px;" alt="logo">
+        <nav class="navbar">
+            
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="about.html">ABOUT US</a></li>
+                <li><a href="index.html">OUR SERVICES</a></li>
+                <li><a href="donate.html">DONATE</a></li>
+                <li><a href="contact.html">CONTACT US</a></li>
+            </ul>
+        </nav>
+        <div class="fas fa-bars"></div>
+        
+    </header>
+
+    <!--Home-->
+    <div class="donate-home">
+        <div class="donate-background">
+            <div class="donate-content">
+                <h1 class="heading">DONATE</strong>
+                </h1>
+            </div>
+        </div>
+    </div>
+
+    <section class="table">
+    <table cellspacing ='0'>
+       
+        <tr>
+          <td><img src="images/oneday.jpeg" alt=""></td>
+          <td><h1>ONE DAY MEAL - ₹2000</h1>
+              <p>Celebrate your special moments with us. The One Day Meal covers the morning and evening feed for a day 
+                for our 162 dogs,19 cats,1 sheep, 1 goat, 2 calves and 2 cows.</p></td>
+            <td> 
+                <a href="payment.html"><button class="btn">Donate Now</button></a>
+            </td>
+           
+        </tr>
+        <tr>
+            <td><img src="images/vaccination.jpeg" alt=""></td>
+            <td><h1>VACCINATION - ₹600</h1>
+                <p>Covers 1 round of vaccination for 1 resuced dog. Help our 
+                    streeties to get boosted immunity and fight against disease.</p>
+            </td>
+            <td> 
+                <a href="payment.html"><button class="btn">Donate Now</button></a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/Medicines.jpeg" alt=""></td>
+            <td><h1>MEDICINES - ₹2500</h1>
+                <p>It covers general medicines like 1 ltr Betadine solution, 10 nos bandage roll, 1 cotton roll, 10 nos Cepladine powder and 1 box of 
+                    surgical gloves which helps in dressing the open wounds of shelter animals.</p>
+            </td>
+            <td> 
+                <a href="payment.html"><button class="btn">Donate Now</button></a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/vegetarianszone.jpeg" alt=""></td>
+            <td><h1>VEGETARIANS ZONE - ₹10,000</h1>
+                <p>Celebrate your special moments with us. The One Day Meal covers the morning and evening feed for a day 
+                  for our 162 dogs,19 cats,1 sheep, 1 goat, 2 calves and 2 cows.</p>
+            </td>
+            <td> 
+                <a href="payment.html"><button class="btn">Donate Now</button></a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/passiveparents.jpeg" alt=""></td>
+            <td><h1>PASSIVE PARENTS - ₹2000</h1>
+                <p>You can passively adopt any of the shelter animals. WSA will look after them and
+                     feed and vaccinate them, for a small contribution from your end.</p>
+            </td>
+            <td> 
+                <a href="payment.html"><button class="btn">Donate Now</button></a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/sterilization.jpeg" alt=""></td>
+            <td><h1>STERILIZATION - ₹1500</h1>
+                <p>Covers the neutering or spaying charges and 
+                    anti - rabies vaccine for a rescued indie dog.</p>
+            </td>
+            <td> 
+                <a href="payment.html"><button class="btn">Donate Now</button></a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/minorsurgery.jpeg" alt=""></td>
+            <td><h1>MINOR SURGERY - ₹4500</h1>
+                <p>Saves the life of a rescued animal by helping them undergo the required surgery.</p>
+            </td>
+            <td> 
+                <a href="payment.html"><button class="btn">Donate Now</button></a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/treat.png" alt=""></td>
+            <td><h1>TREAT FOR GRUMPY OLD SOULS - ₹1500</h1>
+                <p>Buys nutritional dry biscuits with wet Pedigree pouches and cerelac 
+                    which helps feed medicines for our old grumpy cats and dogs.</p>
+            </td>
+            <td> 
+                <a href="payment.html"><button class="btn">Donate Now</button></a>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="images/cleaning.jpeg" alt=""></td>
+            <td><h1>CLEANING REQUIREMENT - ₹3000</h1>
+                <p>We value hygiene. This package covers a pack of cleaning materials will like Lizol, Dettol, phenyl, sanitizer, hand wash, soap, Domex, broomstick and wiper. 
+                    These will be used to maintain clean, hygienic surroundings and a germ-free and clean environment.</p>
+            </td>
+            <td> 
+                <a href="payment.html"><button class="btn">Donate Now</button></a>
+            </td>
+        </tr>
+        
+      </table>
+    </section>
+    
+        
+    <!-- Bottom Footer-->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>HOURS OF OPERATION</h4>
+                    <ul>
+                        <li>At the shelter, staff members are in the office and available most weekdays.</li>
+                        <li><B>MONDAY - FRIDAY </B></li>
+                        <li><B>10:00AM - 05:00PM</B></li>
+                        
+                    </ul> 
+                </div>
+                <div class="footer-col">
+                    <h4>ADDRESS</h4>
+                    <ul>
+                        <li>Sy.No. 18/2, K. Chudahalli, Somanahalli Post, Near Guhantara Resort & KMS Farm, Uttarahalli Hobli,Kanakapura Main Road, Bangalore - 560 082</li>
+                        <li><B>EMAIL</B> - wsatrustindia@gmail.com</li>
+                        <li><B>RESCUE LINE</B>  - +91-9632300046</li>
+                    </ul>
+                </div>
+               
+                <div class="footer-col">
+                    <h4>FOLLOW US</h4>
+                    <div class="social-links">
+                        <a target="_blank" href="https://www.facebook.com/profile.php?id=100064329866728&hc_ref=ARQ7vjLG3HV5adfBbiHtF6yOfhxAc-vHyBR6IC_l3cnIDUFiVYrMWs55MWhjJnGKdKw"><i class="fab fa-facebook-f" ></i></a>
+                        <a target="_blank" href="https://www.youtube.com/channel/UCoe7IQVULtg7o59XiWgIBSg"><i class="fab fa-youtube-square"></i></a>
+                        <a target="_blank" href="https://www.instagram.com/we__save__animals/"><i class="fab fa-instagram"></i></a>
+                        <a target="_blank" href="https://goo.gl/maps/NAse5Kqt7tUAx3KD9"><i class="fa fa-map-marker"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="donate/script.js"></script>
+</body>
