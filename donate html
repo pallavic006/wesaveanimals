@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <link rel="stylesheet" href="donate/donate.css">
+
+
+</head>
+
+<body>
+    <!--HEADER PART-->
+    <header class="header">
+        <img itemprop="logo" src="https://49f75a907f3de7cc2849-8c383cd99e3434faa5a413cd61284364.ssl.cf1.rackcdn.com/1587472542667logo.png" style="width: 90px;" alt="logo">
+        <nav class="navbar">
+            
+            <ul>
+                <li><a href="index.html">HOME</a></li>
+                <li><a href="about.html">ABOUT US</a></li>
+                <li><a href="index.html">OUR SERVICES</a></li>
+                <li><a href="donate.html">DONATE</a></li>
+                <!-- <li><a href="#ourwork">OUR WORK</a></li> -->
+                <li><a href="contact.html">CONTACT US</a></li>
+            </ul>
+        </nav>
+        <div class="fas fa-bars"></div>
+        
+    </header>
+    <!--Home-->
+   
+    <section class="donate-class">
+
+        <form action="pdf.html">
+
+            <div class="row">
+
+                <div class="col">
+
+                    <h3 class="title">DONATE</h3>
+
+                        <div class="inputBox">
+                            <span>full name :</span>
+                            <input type="text" placeholder="Your Name">
+                        </div>
+                        <div class="inputBox">
+                            <span>email :</span>
+                            <input type="email" placeholder="Email Address">
+                        </div>
+                        <div class="inputBox">
+                            <span>address :</span>
+                            <input type="text" placeholder="room - street - locality">
+                        </div>
+                        <div class="inputBox">
+                            <span>city :</span>
+                            <input type="text" placeholder="City Name">
+                        </div>
+
+                        <div class="flex">
+                            <div class="inputBox">
+                                <span>state :</span>
+                                <input type="text" placeholder="State">
+                            </div>
+                            <div class="inputBox">
+                                <span>zip code :</span>
+                                <input type="text" placeholder="123 456">
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="col">
+
+                        <div class="inputBox">
+                            <span>cards accepted :</span>
+                            <img src="images/card_img.png" alt="">
+                        </div>
+                        <div class="inputBox">
+                            <span>name on card :</span>
+                            <input type="text" placeholder="Your Name">
+                        </div>
+                        <div class="inputBox">
+                            <span>credit card number :</span>
+                            <input type="number" placeholder="1111-2222-3333-4444">
+                        </div>
+                        <div class="inputBox">
+                            <span>exp month :</span>
+                            <input type="text" placeholder="month">
+                        </div>
+
+                        <div class="flex">
+                            <div class="inputBox">
+                                <span>exp year :</span>
+                                <input type="number" placeholder="year">
+                            </div>
+                            <div class="inputBox">
+                                <span>CVV :</span>
+                                <input type="text" placeholder="cvv">
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <input type="submit" value="Proceed To Checkout" class="submit-btn">
+
+            </form>
+    </section>
+    
+        
+    <!-- Bottom Footer-->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>HOURS OF OPERATION</h4>
+                    <ul>
+                        <li>At the shelter, staff members are in the office and available most weekdays.</li>
+                        <li><B>MONDAY - FRIDAY </B></li>
+                        <li><B>10:00AM - 05:00PM</B></li>
+                        
+                    </ul> 
+                </div>
+                <div class="footer-col">
+                    <h4>ADDRESS</h4>
+                    <ul>
+                        <li>Sy.No. 18/2, K. Chudahalli, Somanahalli Post, Near Guhantara Resort & KMS Farm, Uttarahalli Hobli,Kanakapura Main Road, Bangalore - 560 082</li>
+                        <li><B>EMAIL</B> - wsatrustindia@gmail.com</li>
+                        <li><B>RESCUE LINE</B>  - +91-9632300046</li>
+                    </ul>
+                </div>
+            
+                <div class="footer-col">
+                    <h4>FOLLOW US</h4>
+                    <div class="social-links">
+                        <a target="_blank" href="https://www.facebook.com/profile.php?id=100064329866728&hc_ref=ARQ7vjLG3HV5adfBbiHtF6yOfhxAc-vHyBR6IC_l3cnIDUFiVYrMWs55MWhjJnGKdKw"><i class="fab fa-facebook-f" ></i></a>
+                        <a target="_blank" href="https://www.youtube.com/channel/UCoe7IQVULtg7o59XiWgIBSg"><i class="fab fa-youtube-square"></i></a>
+                        <a target="_blank" href="https://www.instagram.com/we__save__animals/"><i class="fab fa-instagram"></i></a>
+                        <a target="_blank" href="https://goo.gl/maps/NAse5Kqt7tUAx3KD9"><i class="fa fa-map-marker"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="donate/script.js"></script>
+</body>
