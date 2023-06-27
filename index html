@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <!--HEADER PART-->
+    <header class="header">
+        <img itemprop="logo" src="https://49f75a907f3de7cc2849-8c383cd99e3434faa5a413cd61284364.ssl.cf1.rackcdn.com/1587472542667logo.png" style="width: 90px;" alt="logo">
+        <nav class="navbar">
+            
+            <ul>
+                <li><a href="#home">HOME</a></li>
+                <li><a href="about.html">ABOUT US</a></li>
+                <li><a href="#project">OUR SERVICES</a></li>
+                <li><a href="donate.html">DONATE</a></li>
+                <!-- <li><a href="#ourwork">OUR WORK</a></li> -->
+                <li><a href="contact.html">CONTACT US</a></li>
+            </ul>
+        </nav>
+        <div class="fas fa-bars"></div>
+        
+    </header>
+
+    <!--HOME PAGE SECTION-->
+    <section class="home" id="home">
+        <div class="content">
+            <h2>Welcome To</h2>
+            <h1>(WSA) Welfare trust</h1>
+            <p>Being humans, let's be the voice for the voiceless.</p>
+            <a href="about.html"><button class="btn">About Us</button></a>
+        </div>
+    </section>
+
+    <!--Services Section-->
+    <section class="project" id="project">
+        <h1 class="heading">OUR SERVICES</h1>
+        <div class="box-container">
+            <div class="box">
+                <img src="images/swa_services1.png"alt="">
+                <div class="overlay overlay_3">
+                    <h1>Medical Treatments</h1> 
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="images/swa_services2.png"alt="">
+                <div class="overlay overlay_3">
+                    <h1>Rehabilitation Centre</h1> 
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="images/swa_services3.png" alt="">
+                <div class="overlay overlay_3">
+                    <h1>Rescue injured and Old Stray Animals</h1> 
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="images/swa_services4.png" alt="">
+                <div class="overlay overlay_3">
+                    <h1>Adoption & Awareness</h1> 
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="images/swa_services5.png"alt="">
+                <div class="overlay overlay_3">
+                    <h1>Volunteers</h1> 
+                </div>
+            </div>
+        </div>    
+    </section>
+
+
+
+    <!--Donate Section-->
+    <div class="section-container">
+        <div class="columns image" style="background-image:url('images/swa_donation.png')">
+            &nbsp;
+        </div>
+        <div class="columns content">
+            <div class="content-container">
+                <h5>DONATE</h5>
+                <p>
+                    Your donation, no matter the size, will make a significant impact on the lives of these innocent animals. With your support, we can continue to make a difference, one precious life at a time.
+                </p>
+                <p>
+                    We believe in second chances and the power of compassion. We are dedicated to rescuing and rehabilitating animals in need, giving them the chance to experience love, safety, and a brighter future. But we can't do it alone - we need your support!<br><br>
+                    <a href="donate.html" class="donation-link"> DONATE</a> TODAY !
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+    <!--Youtube video Section-->
+    <section class="write" id="write">
+        <header class="header1">
+            <iframe width="500" height="350" src="https://www.youtube.com/embed/v=-oCUZewx3TU">
+            </iframe>        
+        </header>
+    </section>
+
+    <!-- Bottom Footer-->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>HOURS OF OPERATION</h4>
+                    <ul>
+                        <li>At the shelter, staff members are in the office and available most weekdays.</li>
+                        <li><B>MONDAY - FRIDAY </B></li>
+                        <li><B>10:00AM - 05:00PM</B></li>
+                        
+                    </ul> 
+                </div>
+                <div class="footer-col">
+                    <h4>ADDRESS</h4>
+                    <ul>
+                        <li>Sy.No. 18/2, K. Chudahalli, Somanahalli Post, Near Guhantara Resort & KMS Farm, Uttarahalli Hobli,Kanakapura Main Road, Bangalore - 560 082</li>
+                        <li><B>EMAIL</B> - wsatrustindia@gmail.com</li>
+                        <li><B>RESCUE LINE</B>  - +91-9632300046</li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>FOLLOW US</h4>
+                    <div class="social-links">
+                        <a target="_blank" href="https://www.facebook.com/profile.php?id=100064329866728&hc_ref=ARQ7vjLG3HV5adfBbiHtF6yOfhxAc-vHyBR6IC_l3cnIDUFiVYrMWs55MWhjJnGKdKw"><i class="fab fa-facebook-f" ></i></a>
+                        <a target="_blank" href="https://www.youtube.com/channel/UCoe7IQVULtg7o59XiWgIBSg"><i class="fab fa-youtube-square"></i></a>
+                        <a target="_blank" href="https://www.instagram.com/we__save__animals/"><i class="fab fa-instagram"></i></a>
+                        <a target="_blank" href="https://goo.gl/maps/NAse5Kqt7tUAx3KD9"><i class="fa fa-map-marker"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
